@@ -1,0 +1,157 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
+  <diagram name="Página-1" id="I3pmmlBZXCE0Oiy9jYWO">
+    <mxGraphModel dx="1877" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="749L0UJZ76sSgdRuwirm-2" value="Amazon EKS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.eks;" parent="1" vertex="1">
+          <mxGeometry x="491" y="-70" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="590" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-2" value="Migraçao Cluster Kubernetes InnerSource APLICAÇACÕES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-5" value="Data 30/09/24 - Gmud" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="380" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-6" value="1 - Aplicação api- Commons&lt;div&gt;- Alteração de Secret&lt;/div&gt;&lt;div&gt;- Alteração de parametro do quickconfig quanto xml e Yml&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-7" value="1.1 - Aplicação api- consumer-account-created&lt;div&gt;- Alteração de Secret&lt;/div&gt;&lt;div&gt;- Alteração de parametro do quickconfig quanto xml e Yml&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.006;exitY=0.599;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.996;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185.89999999999998" y="511.8600000000001" as="sourcePoint" />
+            <mxPoint x="769.9999999999999" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-11" value="Data 01/10/24 Gmud" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="510" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-12" value="1 - Aplicação api- statement&lt;div&gt;- Alteração de Secret&lt;/div&gt;&lt;div&gt;- Alteração de parametro do quickconfig quanto xml e Yml&lt;br&gt;- Altera de rotas api gateway&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="540" width="580" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.006;exitY=0.599;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.996;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179.99999999999997" y="611.8600000000001" as="sourcePoint" />
+            <mxPoint x="764.0999999999999" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-15" value="Data 02/10/24 Gmud" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="620" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-16" value="1 - Aplicação api-export-statement&lt;div&gt;- Alteração de Secret&lt;/div&gt;&lt;div&gt;- Alteração de parametro do quickconfig quanto xml e Yml&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="650" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.006;exitY=0.599;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.996;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="182.94999999999996" y="711.8600000000001" as="sourcePoint" />
+            <mxPoint x="767.05" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-18" value="Data 03/10/24 Gmud" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="720" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-19" value="1 - Aplicação api- nova&lt;div&gt;- Alteração de Secret&lt;/div&gt;&lt;div&gt;- Alteração de parametro do quickconfig quanto xml e Yml&lt;br&gt;- Altera de rotas api gateway&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="750" width="585" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.006;exitY=0.599;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.996;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="182.94999999999996" y="821.8600000000001" as="sourcePoint" />
+            <mxPoint x="767.05" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-21" value="PAUSA FREEZING 04/10/24 A&amp;nbsp; 07/10/24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="186" y="830" width="579" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.006;exitY=0.599;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.996;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185.89999999999995" y="861.8600000000001" as="sourcePoint" />
+            <mxPoint x="770" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-23" value="Data 08/10/24 Gmud e abertura de BG" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="183" y="870" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-24" value="1 - Aplicação api- account-bff&lt;div&gt;- Alteração de Secret&lt;/div&gt;&lt;div&gt;- Alteração de parametro do quickconfig quanto xml e Yml&lt;br&gt;- Altera de rotas api gateway (MANUAL e Realização de Deploy Manual)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="900" width="585" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.006;exitY=0.599;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.996;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180.89999999999995" y="981.8600000000001" as="sourcePoint" />
+            <mxPoint x="765" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-26" value="Data 09/10/24 Gmud" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="183" y="990" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-27" value="1 - Aplicação api- 4734&lt;div&gt;- Alteração de Secret&lt;/div&gt;&lt;div&gt;- Alteração de parametro do quickconfig quanto xml e Yml&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="1020" width="585" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="50" width="530" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-29" value="Criação Cluster Kubernetes InnerSource" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="50" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-30" value="Data 23/09/24 - Gmud" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="90" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-32" value="&lt;div&gt;1 - Criação de Cluster&amp;nbsp;&lt;/div&gt;&lt;div&gt;1.1 - Criação de Roles Eks&lt;/div&gt;&lt;div&gt;1.1 Habilitar Addons Eks Basicos&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="110" width="375" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-33" value="Data 24/09/24 - Gmud" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="180" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-34" value="&lt;div&gt;2 - Habilitar Addons Monitoramento e Observabilidade&amp;nbsp;&lt;/div&gt;&lt;div&gt;2.1 - Configuração de Quickconfig(parametrização e secret)&amp;nbsp;&lt;br&gt;2.2 - Configuração rota NF2&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="200" width="375" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.006;exitY=0.599;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="171.86000000000013" as="sourcePoint" />
+            <mxPoint x="1430" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.006;exitY=0.599;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="251.86000000000013" as="sourcePoint" />
+            <mxPoint x="1430" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-38" value="Data 25/09/24 - Gmud" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="260" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-39" value="&lt;div&gt;3 - Configuração de Observabilidade e Alertas (Alertas Para o novos Cluster)&lt;/div&gt;&lt;div&gt;3.1 - Validação de ambiente Cluster InnerSource (Analisar Todas Features Configuiradas)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="279" width="510" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-10" width="510" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-41" value="Pontos de Atenção" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-42" value="1 - As Data de Migração devem acontecer nos dias 30/09/24 no maximo 10/10/24" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="40" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-43" value="2 - As Licenças do appdynamics são estão disponíveis no inicio do mês 01 ate dia 10 de cada mês." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="70" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-44" value="3 - A cada migração de api será validado a Jornada completa." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="100" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-45" value="3.1 - As Aplicações sem api gateway sera feito replicas 0 no cluster antigo e caso de rollback sera feito o replica 2 e realizando rollback das roles" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="125" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-46" value="3.2 - As Aplicações com api gateway sera feito replicas 0 mas em caso de rollback será aberto um hotfix para subida das configurações das rotas do cluster anterior" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="155" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CYfJLyTy7LnO7O0X-yu-47" value="4 - Durante o teste caso a Jornada apresente problema durante a migração sera feito o rollback diratemente no cluster e realizando hotfix para retornas as configurações de Roles e rotas configuradas no Api Gateway" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-128" y="190" width="500" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
